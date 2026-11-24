@@ -3,6 +3,9 @@
 Prints the pickup line (one line, no extra output) and writes the exact
 same line to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output), as the
 house template judged-artifact expects.
+
+The line's angle: nerdy romantic — a million simulated meetings, one
+hopeful outcome, delivered with a wink rather than a boast.
 """
 
 import os
